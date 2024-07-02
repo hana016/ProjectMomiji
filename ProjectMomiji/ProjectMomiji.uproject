@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "ReadAndWriteFile",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/74b9f3d768c845ad8282fd4aa0cef343"
+		}
+	]
+}
